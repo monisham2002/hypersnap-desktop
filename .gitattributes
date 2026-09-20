@@ -1,0 +1,14 @@
+# See https://github.com/github/linguist   
+# Generated on 2026-11-10
+
+*.tsx linguist-detectable
+
+*.htm linguist-vendored
+*.ts linguist-detectable
+
+*.sh text eol=lf
+
+docs/* linguist-vendored
+*.min.js linguist-generated
+
+*.bat text eol=crlf

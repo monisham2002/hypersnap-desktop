@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+npm-debug.log*
+.pnpm-store/
+node_modules/
+*.tgz
+coverage/
+.cache/
+dist/
